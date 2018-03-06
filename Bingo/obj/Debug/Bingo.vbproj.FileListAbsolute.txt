@@ -1,0 +1,12 @@
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.exe.config
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.exe
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.pdb
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.xml
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.vbprojResolveAssemblyReference.cache
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.exe
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.xml
+c:\users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\aprat\documents\visual studio 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
