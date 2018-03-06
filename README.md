@@ -1,3 +1,6 @@
-## Synopsis
+## Abans de copiar la meva activitat...
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Aquesta es una activitat creada com a practica per al cicle que estava fent al moment. Si estas llegint aixó, significa que has arribat aquí buscant per a fer aquesta practica tu també. 
+Estas en la teva completa llibertat de copiar aquesta practia, pero t'aviso d'una cosa:
+-Es una activitat completament millorable
+-El codi es tant complexe i personal que et desitjo sort entenent-la
